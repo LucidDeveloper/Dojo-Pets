@@ -12,17 +12,17 @@
 Ninja Class
 Attributes:
 
-first_name
-last_name
-pet
-treats
+first_name,
+last_name,
+pet,
+treats,
 pet_food
 
 Ninja Class
 Methods:
 
-walk()
-feed()
+walk(),
+feed(),
 bathe()
 
 * Create a Pet Class with the following atributes and methods.
@@ -30,19 +30,19 @@ bathe()
 Pet Class
 Attributes:
 
-name
-type
-tricks
-health
+name,
+type,
+tricks,
+health,
 energy
 
 Pet Class
 Methods:
 
-sleep()
-eat()
-play()
-noise()
+sleep(),
+eat(),
+play(),
+noise(),
 
 
 * Create a Ninja class with the ninja attributes listed above.
@@ -55,7 +55,7 @@ noise()
 
 * Make an instance of a Ninja and assign them an instance of a pet to the pet attribute.
 
-* Have the Ninja feed, walk , and bathe their pet.
+* Have the Ninja feed, walk, and bathe their pet.
 
 * NINJA BONUS: Use modules to separate out the classes into different files.
 
