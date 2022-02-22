@@ -3,6 +3,8 @@ Gianni M. Javier
 '''
 
 # NINJA BONUS: Use modules to separate out the classes into different files.
+# Module import format for Class import
+# from <file_name> import <class_name>
 
 from ninja import Ninja
 from pets import Cat, Dog
